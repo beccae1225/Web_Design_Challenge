@@ -84,20 +84,20 @@ This section contains screenshots of each page that must be built, at varying sc
 
 Large screen:
 
-![Landing page large screen](Images/Beccas_Landing.png)
+![Landing page large screen](Images/Beccas_Landing.PNG)
 
 
 #### <a id="comparisons-page"></a>Comparisons page
 
 Large screen:
 
-![comparison page large screen](Images/Beccas_Comparison.png)
+![comparison page large screen](Images/Beccas_Comparison.PNG)
 
 #### <a id="data-page"></a>Data page
 
 Large screen:
 
-![data page large screen](Images/Beccas_Data.png)
+![data page large screen](Images/Beccas_Data.PNG)
 
 
 
@@ -107,13 +107,13 @@ You'll build four of these, one for each visualization. Here's an example of one
 
 Large screen:
 
-![visualize page large screen](Images/Beccas_VizOne.png)
+![visualize page large screen](Images/Beccas_VizOne.PNG)
 
-![visualize page large screen](Images/Beccas_VizTwo.png)
+![visualize page large screen](Images/Beccas_VizTwo.PNG)
 
-![visualize page large screen](Images/Beccas_VizThree.png)
+![visualize page large screen](Images/Beccas_VizThree.PNG)
 
-![visualize page large screen](Images/Beccas_VizFour.png)
+![visualize page large screen](Images/Beccas_VizFour.PNG
 
 
 
